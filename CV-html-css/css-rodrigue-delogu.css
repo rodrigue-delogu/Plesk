@@ -1,0 +1,125 @@
+body {
+    font-family: 'OpenSans', sans-serif;
+    padding: 25px;
+    background-color: white;
+    color: #000000;
+    font-size: 21px;
+}
+.dark-mode {
+    background-color: rgb(0, 0, 0) !important;
+    color: rgb(197, 68, 3) !important;
+}
+.logoLP{
+    width: 3%;
+	height: 10%;
+    max-width: 100%;
+}
+main {
+        box-shadow: 30px 0px 40px rgb(196, 196, 196), -30px 0px 40px rgb(196, 196, 196);
+        margin: auto;
+        max-width: 900px;
+}
+button {
+    font-size: 35px
+}
+header {
+    height: 160px;
+    padding-top: 10px;
+    background-color: rgb(255, 255, 255);
+}
+
+.photo {
+    margin-left: 4%;
+    margin-top: 2%;
+    border-radius: 40%;
+    width: 140px;
+    height: 140px;
+    overflow: hidden;
+}
+
+.en-tête{
+    margin-left: 17%;
+    margin-top: -14%;
+}   
+
+h3.titre{
+    color: #000000;
+    font-size: 27px;
+    text-align: center
+}
+
+.post{
+    color: #000000;
+    font-weight: bold;
+    text-align: center;
+    font-size: 25px;
+}
+
+hr.barretop{
+    border-top: 1px solid #000000;
+    width: 100%;
+    margin-top: 0.1rem;
+    margin-bottom: 0.4rem;
+}
+
+.gauche{
+    background-color: rgb(255, 255, 255);
+    float: left;
+    width: 280px;
+}
+
+.droite{
+    background-color: rgb(255, 255, 255);
+    float: right;
+    width: 580px;
+}
+
+.Contacts{
+    margin-left: 10%;
+}
+
+.langage{
+    margin-left: 10%;
+}
+
+.atouts{
+    margin-left: 10%;
+}
+
+.langues{
+    margin-left: 10%;
+}
+
+.voyages{
+    margin-left: 10%;
+}
+
+.centresdintérêt{
+    margin-left: 10%;
+}
+
+hr.barre{
+ border-top: 2px solid #5e1749;
+ width: 100%;
+ margin-top: 0.1rem;
+ margin-bottom: 0.4rem;
+}
+
+strong{
+    color: #8d6ac7;
+    letter-spacing: .0rem;
+    font-size: 23px;
+}
+
+.rôle{
+    color: #a8a6a6;
+    text-decoration: none; 
+}
+
+.Diplômes-et-formations{
+    margin-right: 5%;
+}
+
+.Expériences-professionnelles{
+    margin-right: 5%;
+}
